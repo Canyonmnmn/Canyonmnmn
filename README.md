@@ -5,7 +5,8 @@
 <p>欢迎来到我的小仓库！</br> 一名来自 🇨🇳 <b>中国浙江温州</b>的前端程序猿, 目前在杭州工作。</p>
 <h3>这些是我会使用的工具</h3>
 <p>
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
- <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+<img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+ 
+
+
 </p>
