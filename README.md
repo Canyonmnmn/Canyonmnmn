@@ -9,4 +9,5 @@
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
 </p>
-<p>这些只是自己的一个学习记录，希望一起成长！(左侧的简介是为了过colipot的学生审核，切勿当真)</p>
+<p>学习记录，望成长....</p>
+<p>钱塘江上潮信来，今日方知我是我</p>
