@@ -11,5 +11,5 @@
 </p>
 <p>学习记录，望成长....</p>
 <p>
-个人博客：<a link="https://canyonmnmn.github.io/Fijiblueblog"></a>
+个人博客：<a href="https://canyonmnmn.github.io/Fijiblueblog">Fijiblue</a>
 <p>
