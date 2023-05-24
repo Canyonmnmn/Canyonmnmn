@@ -10,3 +10,6 @@
  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
 </p>
 <p>学习记录，望成长....</p>
+<p>
+个人博客：<a link="https://canyonmnmn.github.io/Fijiblueblog"></a>
+<p>
